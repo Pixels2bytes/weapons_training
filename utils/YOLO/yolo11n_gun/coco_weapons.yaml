@@ -1,0 +1,8 @@
+names:
+  0: person
+  1: gun
+  2: smartphone
+nc: 3
+path: .
+train: resources/training/datasets/labeled guns data for object detection/images/train
+val: resources/training/datasets/labeled guns data for object detection/images/val
